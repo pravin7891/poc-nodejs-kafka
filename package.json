@@ -4,7 +4,9 @@
   "description": "",
   "main": "producer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "start:admin": "node admin.js",
+  "start:consumer": "node consumer.js group1",
+  "start:producer": "node producer.js",
   },
   "keywords": [],
   "author": "",
