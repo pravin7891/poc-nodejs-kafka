@@ -1,4 +1,3 @@
-README
 
 # KAFKA with Nodejs Overview
 
